@@ -1,0 +1,63 @@
+.div{
+    width: 400px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0.5px 0 0.5px rgb(227, 227, 227);
+    
+
+}
+
+.v{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0.5px 0 0.5px rgb(227, 227, 227);
+}
+
+
+
+.dd{
+    height: 250px;
+    margin-top: 200;
+    text-align: center;
+}
+
+.아{
+    font-weight: 700;
+}
+
+.l{
+    margin: 0 5pt 0 5pt;
+}
+
+
+
+.f{
+    width: 400px;
+    height: 275px;
+}
+
+.s{
+    margin: 0px 100px 0 100px;
+}
+
+
+
+.t{
+    display: flex;
+    justify-content: flex-start; flex-wrap: wrap;
+}
+
+.a {
+    background-image: url(mika_swimsuit.jpg) ;
+    background-size: 0.5em;
+    background-position: right center;
+    background-repeat: no-repeat;
+    text-align: left;
+    margin: 5px 10px 5px 10px;
+}
+
+.q {
+    text-decoration: none;
+    text-decoration-line: none;
+}
